@@ -1,0 +1,1 @@
+// Get span until character in string (function)

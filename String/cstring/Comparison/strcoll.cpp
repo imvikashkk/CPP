@@ -1,0 +1,1 @@
+// Compare two strings using locale (function)

@@ -1,0 +1,1 @@
+// Transform string using locale (function)

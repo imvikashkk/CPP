@@ -1,0 +1,1 @@
+// Locate first occurrence of character in string (function)
